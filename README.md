@@ -22,9 +22,9 @@ Cet anneau, en plus de pouvoir lancer Vision véritable une fois par jour, peut 
 Une fois dans l'arène, vous pouvez acheter du matériel (5 objets dignes de la fin de TOB) ou demander à affronter, au choix :
 - Un groupe de Tanar'ris
 - Un groupe de Baatezus
-- **Le "Sans-âme", un Balor accompagné de Tanar'ris 
-- **Le "Tueur de dieux", un Écorcheur accompagné de Baatezus (bien boosté, pire que l'Écorcheur de la fin de SOA)
-- **"Murmure", le grand maître. C'est le seul combat qui vous rapporte des drops (5 objets bien cheatés)(et renouvelable à l'envie)
+- **Le "Sans-âme"**, un Balor accompagné de Tanar'ris 
+- **Le "Tueur de dieux"**, un Écorcheur accompagné de Baatezus (bien boosté, pire que l'Écorcheur de la fin de SOA)
+- **"Murmure"**, le grand maître. C'est le seul combat qui vous rapporte des drops (5 objets bien cheatés)(et renouvelable à l'envie)
 
 L’intérêt de ces combats est uniquement de s’amuser et d'engranger de l'xp (ou dans le cas de "Murmure" de looter en boucle de l’équipement cheaté). Mais garde à vous : les combats sont très ardus (dignes de la tour de Garde, voir pire) et tous les groupes (sauf le grand maître) incluent des Erinyes / Succubes qui abusent des charmes.
 
